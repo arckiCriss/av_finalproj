@@ -1,5 +1,4 @@
 # cse891_handover_simulator
-cse891_handover_simulator
 This is the demo code for our final project.
 A simple simulator for handover in celluar networks on vehicles, created with pygame.
 # features
